@@ -1,5 +1,5 @@
-# StarLock.Co
-This is my own Project
+# Starter tiny project
+This is my own tiny Project as a beginner
 
 THIS Project is use full to calculation and some purpose
 I Hope may be useful you 
